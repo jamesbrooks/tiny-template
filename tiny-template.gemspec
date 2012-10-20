@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = TinyTemplate::VERSION
   gem.authors       = ["James Brooks"]
   gem.email         = ["james@gooddogdesign.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = 'Simple tag based templating engine for ruby'
+  gem.summary       = 'Simple tag based templating engine for ruby'
+  gem.homepage      = 'https://github.com/JamesBrooks/tiny-template'
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
