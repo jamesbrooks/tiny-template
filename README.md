@@ -1,5 +1,6 @@
 # TinyTemplate
-[![Build Status](https://secure.travis-ci.org/JamesBrooks/tiny-template.png)](http://travis-ci.org/JamesBrooks/tiny-template)[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/JamesBrooks/tiny-template)
+[![Build Status](https://secure.travis-ci.org/JamesBrooks/tiny-template.png)](http://travis-ci.org/JamesBrooks/tiny-template)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/JamesBrooks/tiny-template)
 
 TODO: Write a gem description
 
